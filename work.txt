@@ -1,0 +1,6 @@
+total 39
+-rw-r--r-- 1 hanju 197609 35823 Apr 16 10:33 LICENSE
+-rw-r--r-- 1 hanju 197609    10 Apr 16 10:33 README.md
+-rw-r--r-- 1 hanju 197609    35 Apr 16 11:06 new.txt
+-rw-r--r-- 1 hanju 197609    27 Apr 16 11:06 test.txt
+-rw-r--r-- 1 hanju 197609     0 Apr 16 11:11 work.txt
